@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Zhiqian - Chinese traditional art",
+    "title": "Zhiqian&#x27;s Chinese Traditional Art",
     "description": "",
     "home_page_url": "https://czqart.github.io",
     "feed_url": "https://czqart.github.io/feed.json",
@@ -10,16 +10,16 @@
     },
     "items": [
         {
-            "id": "https://czqart.github.io/test-2.html",
-            "url": "https://czqart.github.io/test-2.html",
-            "title": "test",
+            "id": "https://czqart.github.io/test1.html",
+            "url": "https://czqart.github.io/test1.html",
+            "title": "test1",
             "author": {
                 "name": "Zhiqian Chen"
             },
             "tags": [
             ],
-            "date_published": "2024-08-25T21:27:36+02:00",
-            "date_modified": "2024-08-25T21:27:36+02:00"
+            "date_published": "2024-08-25T21:32:39+02:00",
+            "date_modified": "2024-08-25T21:32:39+02:00"
         }
     ]
 }
