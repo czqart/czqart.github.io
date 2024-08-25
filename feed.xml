@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Zhiqian - Chinese traditional art</title>
+    <link href="https://czqart.github.io/feed.xml" rel="self" />
+    <link href="https://czqart.github.io" />
+    <updated>2024-08-25T21:27:36+02:00</updated>
+    <author>
+        <name>Zhiqian Chen</name>
+    </author>
+    <id>https://czqart.github.io</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Zhiqian Chen</name>
+        </author>
+        <link href="https://czqart.github.io/test-2.html"/>
+        <id>https://czqart.github.io/test-2.html</id>
+
+        <updated>2024-08-25T21:27:36+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
