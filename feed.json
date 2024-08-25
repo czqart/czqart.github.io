@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Zhiqian&#x27;s Chinese Traditional Art",
+    "title": "Zhiqian Art",
     "description": "",
     "home_page_url": "https://czqart.github.io",
     "feed_url": "https://czqart.github.io/feed.json",
@@ -10,16 +10,17 @@
     },
     "items": [
         {
-            "id": "https://czqart.github.io/test1.html",
-            "url": "https://czqart.github.io/test1.html",
-            "title": "test1",
+            "id": "https://czqart.github.io/ink.html",
+            "url": "https://czqart.github.io/ink.html",
+            "title": "Ink",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://czqart.github.io/media/posts/1/iShot_2024-08-25_21.49.01.jpg\" alt=\"\" width=\"579\" height=\"685\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://czqart.github.io/media/posts/1/responsive/iShot_2024-08-25_21.49.01-xs.jpg 384w ,https://czqart.github.io/media/posts/1/responsive/iShot_2024-08-25_21.49.01-sm.jpg 600w ,https://czqart.github.io/media/posts/1/responsive/iShot_2024-08-25_21.49.01-md.jpg 768w ,https://czqart.github.io/media/posts/1/responsive/iShot_2024-08-25_21.49.01-lg.jpg 1200w ,https://czqart.github.io/media/posts/1/responsive/iShot_2024-08-25_21.49.01-xl.jpg 1600w\"></figure>",
             "author": {
                 "name": "Zhiqian Chen"
             },
             "tags": [
             ],
-            "date_published": "2024-08-25T21:32:39+02:00",
-            "date_modified": "2024-08-25T21:33:15+02:00"
+            "date_published": "2024-08-25T21:56:17+02:00",
+            "date_modified": "2024-08-25T21:56:17+02:00"
         }
     ]
 }

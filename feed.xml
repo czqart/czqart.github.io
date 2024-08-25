@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Zhiqian&#x27;s Chinese Traditional Art</title>
+    <title>Zhiqian Art</title>
     <link href="https://czqart.github.io/feed.xml" rel="self" />
     <link href="https://czqart.github.io" />
-    <updated>2024-08-25T21:33:15+02:00</updated>
+    <updated>2024-08-25T21:56:17+02:00</updated>
     <author>
         <name>Zhiqian Chen</name>
     </author>
     <id>https://czqart.github.io</id>
 
     <entry>
-        <title>test1</title>
+        <title>Ink</title>
         <author>
             <name>Zhiqian Chen</name>
         </author>
-        <link href="https://czqart.github.io/test1.html"/>
-        <id>https://czqart.github.io/test1.html</id>
+        <link href="https://czqart.github.io/ink.html"/>
+        <id>https://czqart.github.io/ink.html</id>
 
-        <updated>2024-08-25T21:32:39+02:00</updated>
+        <updated>2024-08-25T21:56:17+02:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://czqart.github.io/media/posts/1/iShot_2024-08-25_21.49.01.jpg" alt="" width="579" height="685" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://czqart.github.io/media/posts/1/responsive/iShot_2024-08-25_21.49.01-xs.jpg 384w ,https://czqart.github.io/media/posts/1/responsive/iShot_2024-08-25_21.49.01-sm.jpg 600w ,https://czqart.github.io/media/posts/1/responsive/iShot_2024-08-25_21.49.01-md.jpg 768w ,https://czqart.github.io/media/posts/1/responsive/iShot_2024-08-25_21.49.01-lg.jpg 1200w ,https://czqart.github.io/media/posts/1/responsive/iShot_2024-08-25_21.49.01-xl.jpg 1600w"></figure>
+            ]]>
+        </content>
     </entry>
 </feed>
